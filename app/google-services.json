@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419811392823",
+    "project_id": "nikitabetanoapostas1st-d43d7",
+    "storage_bucket": "nikitabetanoapostas1st-d43d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419811392823:android:2a88b726d4eac0c9ba6eb2",
+        "android_client_info": {
+          "package_name": "com.betanoapostasonline.futebolesportiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419811392823-mn4k2gog8v5is8q7clm20nc59pgtocjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betanoapostasonline.futebolesportiva",
+            "certificate_hash": "8e92716e0d68eaae39dc2f5f399adc099ed104f1"
+          }
+        },
+        {
+          "client_id": "419811392823-audftedoudn9dpsmngfa2d282unmegsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0M70I8kFhKyFX0Cy0A8SaK5PjYPIFndU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419811392823-audftedoudn9dpsmngfa2d282unmegsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
